@@ -1,13 +1,4 @@
-- 👋 Hi, I’m @Jithin-T-Chandran
-- 👀 I'm a Passionate developer who loves simplicity in things and crafts beautiful user interfaces with love.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-
-
-
-<h1 align="center">Hi 👋, I'm Jithin T Chandran</h1>
+h1 align="center">Hi 👋, I'm Jithin T Chandran</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img mg align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
